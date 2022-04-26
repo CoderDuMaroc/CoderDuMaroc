@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoderDuMaroc
+- 👋 Hi, I’m Mounir an aspiring software developer from the NE United States
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Javascript
 - 📫 You can reach me at moonymajid@gmail.com
